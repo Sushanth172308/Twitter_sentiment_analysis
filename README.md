@@ -1,1 +1,1 @@
-# This is general template for projects
+# This  is an NLP Twitter_sentiment_analysis project
